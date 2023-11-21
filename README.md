@@ -1,8 +1,6 @@
 # JavaScript
 Welcome to the beginner-friendly JavaScript repository! Explore interactive code examples covering fundamental concepts with step-by-step explanations. Start your coding journey now! 💻🚀
 
-# JavaScript Fundamentals
-
 ## Introduction
 
 Welcome to the JavaScript Fundamentals repository! This resource is designed for beginners seeking to strengthen their understanding of JavaScript.
