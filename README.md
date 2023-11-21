@@ -17,7 +17,7 @@ Welcome to the JavaScript Fundamentals repository! This resource is designed for
 
 ## Clone the Repository:
    ```bash
-   git clone https://github.com/Canytr/JavaScript.git
+   git clone https://github.com/Canytr/JavaScript.git '''
 
 
 ## License
